@@ -10,8 +10,9 @@ These models were used to investigate the impact of spacer arrangement and membr
 
 - `Case A.mph` – Conventional SWM geometry with standard spacer configuration  
 - `Case B.mph` – Modified spacer length and leaf geometry  
-- `Case C.mph` – Modified spacer length and leaf geometry with outlet smaller than inlet   
----
+- `Case C.mph` – Modified spacer length and leaf geometry with outlet smaller than inlet
+- validation model.mph - for model valiation to expermental data reported in the article 
+  
  Requirements
 
 - COMSOL Multiphysics Version: 5.6 or later  
